@@ -1,6 +1,8 @@
-
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FBEEAC&height=90&section=header&text=🏝️Welcome🏝️&fontSize=35&fontColor=000000)
-<br><br>
+<div align=center>
+  
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FBEEAC&height=90&section=header&text=🏝️Welcome🏝️&fontSize=30&fontColor=000000)
+</div>
+<br>
 
 <div align=center>
   <h3>🔎 About me</h3>
@@ -28,9 +30,11 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"><br><br><br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyun-0106&layout=compact)](https://github.com/Seyun-0106/github-readme-stats)
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=91C8E4&height=150&section=footer)
 </div>
 
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=91C8E4&height=150&section=footer)
+
