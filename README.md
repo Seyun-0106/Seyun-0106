@@ -28,13 +28,9 @@
   <br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"><br><br><br>
-
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psy373)](https://solved.ac/psy373/)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyun-0106&layout=compact)](https://github.com/Seyun-0106/github-readme-stats)
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=91C8E4&height=150&section=footer)
 </div>
-
-
-
-
-
